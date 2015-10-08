@@ -1,0 +1,1 @@
+The file para10k.03.py is a script to download and convert an HTML 'page' into text, as seen in the file document.txt, as well as a list of dictionaries (paragraphs.txt) containing individual text elements, along with their start and end indices, within document.txt .
